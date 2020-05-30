@@ -1,0 +1,4 @@
+baseURL = "http://jedakiraka.github.io/"
+languageCode = "zh-TW"
+title = "Jed's Blog"
+theme = "ananke"
