@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://jedakiraka.github.io/posts/my-first-post/</loc>
+    <loc>https://jedakiraka.github.io/jedakiraka/posts/my-first-post/</loc>
     <lastmod>2020-05-30T12:09:41+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jedakiraka.github.io/categories/</loc>
+    <loc>https://jedakiraka.github.io/jedakiraka/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jedakiraka.github.io/</loc>
-    <lastmod>2020-05-30T12:09:41+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://jedakiraka.github.io/posts/</loc>
+    <loc>https://jedakiraka.github.io/jedakiraka/</loc>
     <lastmod>2020-05-30T12:09:41+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jedakiraka.github.io/tags/</loc>
+    <loc>https://jedakiraka.github.io/jedakiraka/posts/</loc>
+    <lastmod>2020-05-30T12:09:41+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jedakiraka.github.io/jedakiraka/tags/</loc>
     <priority>0</priority>
   </url>
   
