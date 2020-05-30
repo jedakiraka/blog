@@ -1,4 +1,4 @@
-baseURL = "http://jedakiraka.github.io/"
+baseURL = "https://jedakiraka.github.io/jedakiraka/"
 languageCode = "zh-TW"
 title = "Jed's Blog"
 theme = "ananke"
